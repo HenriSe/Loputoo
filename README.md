@@ -15,6 +15,7 @@ Pilt jaotatakse kolmeks elemendiks ja salvestatakse oma kaustadesse. Pildid jaot
 # Mudelid.py - faili ülesanne on masinõppe mudelite ehitamine, jooksutamine ja salvestamine
 
 Andmeraamistike põhjal ehitab mudelid ning treenib neid vastavalt elemendile.
+Näide: Nägude mudelit treenimine
 ![nägude_mudel_2](https://user-images.githubusercontent.com/58773522/205363697-fdcaf075-2964-4de8-ac70-1a8b3182f7f6.JPG)
 
 Ülesobitamise vältimiseks kasutab andmete rikastamise (data augmentation) ja varajase lõpetamise meetodeid.
