@@ -8,7 +8,9 @@ Kaustast 'ennustused' loeb programm pildid ning jaotab need kolmeks elemendiks e
 Osad:
 
 Andmed.py - faili ülesanne on piltide leidmine, töötlemine, jaotamine kaustadesse ja andmestike tekitamine
-![f1](https://user-images.githubusercontent.com/58773522/205362922-d93997b7-c006-45c8-b2f4-7ad419323167.JPG)
+
+Pilt jaotatakse kolmeks elemendiks ja salvestatakse oma kaustadesse
+![image](https://user-images.githubusercontent.com/58773522/205363251-ed57cf32-2f9f-4eab-8cac-94f7806f560c.png)
 
 
 
