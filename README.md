@@ -52,7 +52,6 @@ Alustame kahe kaustaga kus on päris ja võlts pildid oma kaustades
     - suud
         - fake suud
         - real suud
-    - pakkumised
     
 - ennustused
     - pildid
